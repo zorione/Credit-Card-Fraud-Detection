@@ -1,5 +1,4 @@
 # Credit-Card-Fraud-Detection
-Code for this case study from the course - Machine Learning Practical: 6 Real World Applications
 
 ## Problem 
 A Fraud Detection System using transaction history of book store. The vast majority of users will not be Fraudulent, making it harder for us to detect 
